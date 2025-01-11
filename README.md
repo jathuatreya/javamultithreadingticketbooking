@@ -16,7 +16,4 @@ A multi-threaded ticket booking application developed in Java. It demonstrates c
 - Multi-threading and Concurrency
 - Object-Oriented Programming
 
-## How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/multi-threaded-ticket-booking-system.git
+
